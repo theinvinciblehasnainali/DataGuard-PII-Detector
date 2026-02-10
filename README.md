@@ -154,7 +154,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](https://w
 
 * **Hugging Face:** For hosting the model weights and providing the `transformers` library.
 * **Google Research:** For the original BERT architecture.
-
-```
-
-```
