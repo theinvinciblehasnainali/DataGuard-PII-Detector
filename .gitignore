@@ -1,0 +1,22 @@
+# --- ML Models (The Heavy Stuff) ---
+# We ignore these because they are on Hugging Face
+models/
+
+# --- Python Environment ---
+venv/
+env/
+.env
+
+# --- Caching & Performance ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Logs and Test Files ---
+*.log
+test_logs.txt
+test_results.json
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
